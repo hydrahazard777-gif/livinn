@@ -4,7 +4,6 @@ import Letter from './Letter';
 import flower from "./b03cf87d48c46e60bd34b30a77be85c6.png";
 import letter from "./letter.png"
 import bow from "./bow.png"
-import dino from "./dino.png"
 import text from "./text.jpg"
 import ily from "./ily.png"
 import kity from "./kitty.png"
