@@ -25,7 +25,7 @@ const Letter = ({ onMoreSurprises, onBack }) => {
 
   /* ✅ Memoized letter content (fixes ESLint warning) */
   const letterContent = useMemo(() => [
-    "My Dearest Love, 💖",
+    "My Dearest gng gng, 💖",
     "",
     "blah blah",
     "blah blah",
