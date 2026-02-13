@@ -28,7 +28,7 @@ const Letter = ({ onMoreSurprises, onBack }) => {
     "My Dearest gng gng gng, 💖",
     "",
     "voletile blah",
-    "blah blah",
+    "blah love",
     "blah blah",
     "",
     "blah blah",
