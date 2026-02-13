@@ -27,7 +27,7 @@ const Letter = ({ onMoreSurprises, onBack }) => {
   const letterContent = useMemo(() => [
     "My Dearest gng gng gng, 💖",
     "",
-    "blah blah",
+    "voletile blah",
     "blah blah",
     "blah blah",
     "",
